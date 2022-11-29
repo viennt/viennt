@@ -25,7 +25,7 @@ I'm a dedicated and meticulous web developer with over five years of front-end e
 </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/Shopware-1999F7?style=for-the-badge&logo=shopware&logoColor=white" alt="Shopware Badge"/>
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=shopware&logoColor=white" alt="Symfony Badge"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony Badge"/>
   <img src="https://img.shields.io/badge/React Native-5FD3F3?style=for-the-badge&logo=react&logoColor=212121" alt="React Native Badge"/>
   <img src="https://img.shields.io/badge/MySQL-42759B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
 </div>
