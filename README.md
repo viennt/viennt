@@ -25,9 +25,9 @@ I'm a dedicated and meticulous web developer with over five years of front-end e
 </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/Shopware-1999F7?style=for-the-badge&logo=shopware&logoColor=white" alt="Shopware Badge"/>
-  <img src="https://img.shields.io/badge/Symfony-0000?style=for-the-badge&logo=shopware&logoColor=white" alt="Symfony Badge"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=shopware&logoColor=white" alt="Symfony Badge"/>
   <img src="https://img.shields.io/badge/React Native-5FD3F3?style=for-the-badge&logo=react&logoColor=212121" alt="React Native Badge"/>
-  <img src="https://img.shields.io/badge/MySQL-42759B?style=for-the-badge&logo=mysql&logoColor=DD8919" alt="MySQL Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-42759B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
 </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/Figma-2B2B32?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
@@ -36,7 +36,7 @@ I'm a dedicated and meticulous web developer with over five years of front-end e
 
 #### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viennt&theme=darcula&background=282A36)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viennt&theme=darcula&background=151515)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viennt&layout=compact&theme=dracula)](https://github.com/viennt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viennt&layout=compact&theme=dark)](https://github.com/viennt)
 
