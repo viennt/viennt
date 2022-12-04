@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://viennt.me/">
-    <img src="https://img.shields.io/badge/Personal Blog-white?style=for-the-badge&logo=notion&logoColor=282A36" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Personal Notes-white?style=for-the-badge&logo=notion&logoColor=282A36" alt="Website Badge"/>
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 ### Hi there 👋
 I'm a dedicated and meticulous web developer with over five years of front-end experience and passionate about responsive and UX website design.
 
-#### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Languages and Tools:
 <div id="badges">
   <img src="https://img.shields.io/badge/Javscript-E8D44E?style=for-the-badge&logo=javascript&logoColor=white" alt="Javscript Badge"/>
   <img src="https://img.shields.io/badge/Vite-636CFF.svg?style=for-the-badge&logo=vite&logoColor=FFCC23" alt="Vite Badge"/>
@@ -34,7 +34,12 @@ I'm a dedicated and meticulous web developer with over five years of front-end e
   <img src="https://img.shields.io/badge/Adobe XD-440235?style=for-the-badge&logo=adobe xd&logoColor=F85FEF" alt="Adobe XD Badge"/>
 </div>
 
-#### :fire: My Stats :
+#### :writing_hand: Personal Notes:
+- [Jest unit tests in Shopware Plugin's administration](https://viennt.me/jest-unit-tests-in-shopware-plugins-administration)
+- [Shopware custom CLI command to generate demo data on your entity](https://viennt.me/shopware-custom-cli-command-to-generate-demo-data-on-your-entity)
+- [Shopware data associations by examples](https://viennt.me/shopware-data-associations-by-examples)
+
+#### :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viennt&theme=darcula&background=151515)](https://git.io/streak-stats)
 
