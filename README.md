@@ -39,9 +39,9 @@ I'm a dedicated and meticulous web developer with over five years of front-end e
 - [Shopware custom CLI command to generate demo data on your entity](https://viennt.me/shopware-custom-cli-command-to-generate-demo-data-on-your-entity)
 - [Shopware data associations by examples](https://viennt.me/shopware-data-associations-by-examples)
 
-#### :fire: My Stats:
+<!-- #### :fire: My Stats: -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viennt&theme=darcula&background=151515)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viennt&theme=darcula&background=151515)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viennt&layout=compact&theme=dark)](https://github.com/viennt)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viennt&layout=compact&theme=dark)](https://github.com/viennt) -->
 
