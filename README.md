@@ -10,7 +10,7 @@
 ---
 
 ### Hi there 👋
-I'm a dedicated and meticulous web developer with over five years of front-end experience and passionate about responsive and UX website design.
+I'm a dedicated and meticulous web developer with over five years of front-end experience and passionate about UI/UX website design.
 
 #### :hammer_and_wrench: Languages and Tools:
 <div id="badges">
