@@ -9,7 +9,7 @@
 
 ---
 
-### Hi there 👋
+#### :wave: Hi there
 I'm a dedicated and meticulous web developer with over five years of front-end experience and passionate about UI/UX website design.
 
 #### :hammer_and_wrench: Languages and Tools:
